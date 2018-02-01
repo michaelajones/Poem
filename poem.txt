@@ -5,6 +5,7 @@ Blue
 Green
 Yellow
 Orange
+mustard
 Red
 These are the colours of the rainbow
 And the unicorn.
